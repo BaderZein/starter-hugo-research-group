@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳恩達
+title: Yasmin Hisham
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Yasmin Hisham
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher in Immunology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Konkuk University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cytokine Immunology
+  - Computational Immunology
+  - Vaccine development
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Biomedical Science and Technology
+      institution: Konkuk University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSC. in Medical Biotechnology
+      institution: Palestine Polytechnic University and Bethlehem University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Pharmaceutical Sciences
+      institution: Alquds University
       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:yasmin.91h@gmail.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'yasmin.91h@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
